@@ -1,0 +1,101 @@
+q_id,question
+Q1,"What is the maximum administrative fine for non-compliance with the prohibition of AI practices under Article 5, for an undertaking?"
+Q2,On what date did the European Parliament adopt the Artificial Intelligence Act at first reading?
+Q3,What is the FLOP threshold above which a general-purpose AI model is presumed to have high-impact capabilities associated with systemic risk?
+Q4,Within how many weeks must a provider notify the Commission after a general-purpose AI model meets the systemic risk threshold under Article 51(1)(a)?
+Q5,What does the acronym 'FLOP' stand for in the context of the EU AI Act?
+Q6,"What fine ceiling applies if a Union institution, body, office or agency violates the prohibition of AI practices under Article 5?"
+Q7,"Under Article 99(5), what is the maximum fine for supplying incorrect, incomplete or misleading information to notified bodies or national competent authorities?"
+Q8,"According to Article 3, what body is referred to by the term 'AI Office'?"
+Q9,How long must an authorised representative of a general-purpose AI model provider keep a copy of the technical documentation at the disposal of the AI Office after the model is placed on the market?
+Q10,Which article of the EU AI Act establishes obligations related to AI literacy?
+Q11,What is the maximum administrative fine for non-compliance with requirements related to operators or notified bodies (other than Article 5 violations)?
+Q12,"Under Article 99(6), how are fines adjusted for SMEs including start-ups?"
+Q13,"Under Article 101, what is the maximum fine the Commission can impose on providers of general-purpose AI models for intentional or negligent infringements?"
+Q14,What body has exclusive power to supervise and enforce Chapter V (General-Purpose AI Models) obligations?
+Q15,"According to Article 2, does the EU AI Act apply to AI systems placed on the market exclusively for military, defence or national security purposes?"
+Q16,How does the EU AI Act (Article 3) define 'AI system'?
+Q17,What is a 'deep fake' as defined in Article 3(60) of the EU AI Act?
+Q18,How does the EU AI Act define 'serious incident' under Article 3(49)?
+Q19,How does the EU AI Act define 'deployer' under Article 3(4)?
+Q20,What is a 'general-purpose AI model' as defined in Article 3(63)?
+Q21,How does Article 3 define 'AI regulatory sandbox'?
+Q22,What is the definition of 'biometric categorisation system' under Article 3(40)?
+Q23,How does Article 3(56) define 'AI literacy'?
+Q24,What does 'systemic risk' mean in the context of general-purpose AI models under Article 3(65)?
+Q25,How does Article 3(23) define 'substantial modification' of an AI system?
+Q26,"What are the three tiers of administrative fines established by Article 99 of the EU AI Act, and what types of violations trigger each tier?"
+Q27,What conditions must be met for an AI system listed in Annex III to be exempted from the high-risk classification under Article 6(3)?
+Q28,Explain the transparency obligations for providers of AI systems that generate synthetic content under Article 50(2).
+Q29,What obligations does Article 53 impose on all providers of general-purpose AI models?
+Q30,"Under Article 5(1)(h), in what three specific circumstances is the use of real-time remote biometric identification systems in publicly accessible spaces permitted for law enforcement?"
+Q31,What procedural safeguards apply to each individual use of real-time remote biometric identification for law enforcement under Article 5(3)?
+Q32,How does the EU AI Act treat open-source AI systems differently from commercial ones?
+Q33,What does Article 86 say about the right to explanation for individuals affected by high-risk AI system decisions?
+Q34,"What are the obligations of providers of general-purpose AI models with systemic risk under Article 55, in addition to the standard Article 53 obligations?"
+Q35,How can providers of general-purpose AI models demonstrate compliance with their obligations instead of adhering to a code of practice?
+Q36,How does Article 4 require providers and deployers to address AI literacy?
+Q37,"Under Article 50, what specific disclosure obligation applies to deployers who use AI to generate text intended to inform the public on matters of public interest?"
+Q38,"Under Article 5(1)(f), what is the prohibition relating to emotion recognition, and what exception exists?"
+Q39,What does Article 87 say about reporting of infringements and protection of whistleblowers under the EU AI Act?
+Q40,Explain the conditions under which a provider of a general-purpose AI model may argue that it does not present systemic risk despite exceeding the FLOP threshold.
+Q41,"If a company develops an AI model trained with 10^26 FLOPs and integrates it into a customer-facing chatbot sold in the EU, what obligations does the company face under the AI Act?"
+Q42,An AI system used by a hospital to assist radiologists in detecting tumours is classified as high-risk. The hospital then uses it in a way not intended by the provider. Under what articles and under whose obligations does this situation fall?
+Q43,A third-country company places a general-purpose AI model with systemic risk on the EU market without appointing an authorised representative. What violations has it committed and what are the consequences?
+Q44,A law enforcement authority wants to use a real-time remote biometric identification system in a shopping centre to identify a person suspected of a crime punishable by 3 years' imprisonment. Is this permitted under the EU AI Act?
+Q45,"A company releases an open-source general-purpose AI model with publicly available weights and architecture, but the training exceeds 10^25 FLOPs. Does the open-source exemption in Article 53(2) apply?"
+Q46,Can a Member State choose not to allow real-time biometric identification in public spaces for law enforcement at all? What does the Act say about this?
+Q47,An AI system is initially classified by a provider as not high-risk. A market surveillance authority later determines it was misclassified to avoid compliance requirements. What are the regulatory consequences?
+Q48,A downstream provider integrates a general-purpose AI model into a high-risk AI system. The GPAI model provider has not provided adequate technical documentation. Who is liable and under which articles?
+Q49,"A company's AI system passes conformity assessment and bears CE marking, but after deployment it is found to pose an unacceptable risk to fundamental rights despite being technically compliant. What recourse does the market surveillance authority have?"
+Q50,"A provider of a chatbot fails to inform users that they are interacting with an AI system (Article 50(1)). Under which penalty tier does this fall, and what is the maximum fine?"
+Q51,How does the Act treat a company located in a third country whose AI system output is used by EU consumers even though the company itself does not operate in the EU?
+Q52,Can an AI system be exempt from the Act if it is used purely for scientific research and development purposes? Are there any limits to this exemption?
+Q53,"What must a Member State notification to the Commission include when adopting national rules on real-time biometric identification for law enforcement, and when must it be submitted?"
+Q54,"What happens if a general-purpose AI model with systemic risk is designated as such by the Commission, and the provider requests reassessment?"
+Q55,"A company provides an AI-powered CV screening tool used by EU employers. What category does this fall under, what obligations apply, and who is responsible?"
+Q56,"Describe the complete classification framework for high-risk AI systems under Article 6 of the EU AI Act, including both classification criteria and exceptions."
+Q57,Describe all eight categories of prohibited AI practices listed in Article 5(1) of the EU AI Act.
+Q58,What comprehensive obligations does Article 26 impose on deployers of high-risk AI systems?
+Q59,"Describe the governance structure established by the EU AI Act, including the roles of the AI Office, the AI Board, national competent authorities, and the scientific panel."
+Q60,"Explain the complete process through which a general-purpose AI model gets designated as having systemic risk, from initial indicators through to listing, including procedural rights of the provider."
+Q61,"Describe the purposes, structure, and content requirements for the EU database of high-risk AI systems under the AI Act."
+Q62,What are the obligations relating to technical documentation (Article 11) for providers of high-risk AI systems?
+Q63,Describe the entire complaint and remedy ecosystem available to persons affected by non-compliant AI systems under the EU AI Act.
+Q64,"What does the EU AI Act say about AI regulatory sandboxes — what are they, who establishes them, who can access them, and what conditions apply?"
+Q65,Describe all the factors that national competent authorities must consider when deciding whether to impose an administrative fine and determining its amount under Article 99(7).
+Q66,Does the EU AI Act require all AI systems — including low-risk ones — to undergo third-party conformity assessment before being placed on the market?
+Q67,Does the EU AI Act prohibit all uses of emotion recognition AI systems?
+Q68,Is it true that the EU AI Act only applies to AI systems developed within the European Union?
+Q69,Does Article 5 of the EU AI Act prohibit all use of biometric categorisation systems?
+Q70,Does the EU AI Act establish a single EU-level supervisory body responsible for enforcing all provisions of the Act across all Member States?
+Q71,"Does the EU AI Act create an entirely new liability regime for AI-related harm, replacing existing product liability laws?"
+Q72,Does the EU AI Act require all general-purpose AI models to be registered in the EU database?
+Q73,Does the EU AI Act permit Member States to impose stricter national rules on prohibited AI practices than those set out in Article 5?
+Q74,Does the EU AI Act require providers of AI systems to perform a fundamental rights impact assessment for all AI systems?
+Q75,"Is it correct that under the EU AI Act, real-time remote biometric identification in public spaces is completely banned for law enforcement purposes?"
+Q76,"In simpler terms: what is the EU AI Act trying to achieve overall, and why was it created?"
+Q77,"In your own words, what does the Act mean when it talks about 'putting into service' an AI system?"
+Q78,What is the EU AI Act essentially saying when it refers to 'reasonably foreseeable misuse'?
+Q79,Rephrase: what does the Act mean by a 'post-market monitoring system'?
+Q80,"Without using technical jargon, explain what 'biometric verification' means and how it differs from 'biometric identification' in the Act."
+Q81,In plain language: what does the Act say about AI systems that are free and open source?
+Q82,Restate what the Act requires providers to do about copyright when it comes to GPAI models.
+Q83,"In your own words, what does 'CE marking' mean in the context of the AI Act?"
+Q84,What is the Act really saying when it defines a 'substantial modification'?
+Q85,Rephrase what Article 4 requires providers and deployers to do about AI literacy.
+Q86,Does the EU AI Act apply to AI used in social media content moderation?
+Q87,Who is responsible for compliance when an AI system is embedded in a product sold by a third party?
+Q88,Does an AI system that assists a doctor in making a diagnosis count as a medical device under the EU AI Act?
+Q89,Is an AI chatbot that recommends financial products automatically considered a high-risk AI system?
+Q90,"If a deployer uses an AI system in a way that violates the Act, can the provider also be held responsible?"
+Q91,What specific information must be included in the notification to national market surveillance and data protection authorities under Article 5(4) when real-time remote biometric identification is used for law enforcement?
+Q92,"According to Article 52(2) and (3), what specific standard must a provider meet to successfully argue that a GPAI model exceeding the FLOP threshold does not actually present systemic risk?"
+Q93,"Under Article 55(1)(c), what specific reporting obligation exists for providers of general-purpose AI models with systemic risk regarding serious incidents?"
+Q94,What does Article 50(4) specifically require when a deployer uses an AI system to generate a 'deep fake' as part of an artistic or satirical work?
+Q95,What does Article 99(8) say about the imposition of administrative fines on public authorities and bodies within Member States?
+Q96,"Under Article 51(3), what power does the Commission have regarding the 10^25 FLOP threshold and other benchmarks over time?"
+Q97,What does Article 57 require regarding testing in real-world conditions within the AI regulatory sandbox framework?
+Q98,"According to Article 90(3), what must a qualified alert from the scientific panel include?"
+Q99,"Under Article 95(2), what specific elements may codes of conduct for voluntary application cover?"
+Q100,"What does Article 2(12) specifically say about the scope of the Act's applicability to free and open-source AI systems, and what are the exceptions to any exclusion?"

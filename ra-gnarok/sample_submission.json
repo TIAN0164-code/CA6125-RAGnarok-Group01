@@ -1,0 +1,222 @@
+[
+  {
+    "q_id": "Q1",
+    "response": "The maximum administrative fine for non-compliance with the prohibition of AI practices under Article 5, for an undertaking, is up to 7% of its total worldwide annual turnover for the preceding financial year or €35,000,000, whichever is higher.",
+    "retrieved_chunks": [
+      { "rank": 1, "content": "Non-compliance with the prohibition of the AI practices referred to in Article 5 shall be subject to administrative fines of up to 35 000 000 EUR or, if the offender is an undertaking, up to 7 % of its total worldwide annual turnover for the preceding financial year, whichever is higher." },
+      { "rank": 2, "content": "The penalties provided for shall be effective, proportionate and dissuasive. They shall take into account the interests of SMEs, including start-ups, and their economic viability." },
+      { "rank": 3, "content": "In the case of SMEs, including start-ups, each fine referred to in this Article shall be up to the percentages or amount referred to in paragraphs 3, 4 and 5, whichever thereof is lower." },
+      { "rank": 4, "content": "Member States shall lay down the rules on penalties and other enforcement measures, which may also include warnings and non-monetary measures, applicable to infringements of this Regulation by operators." },
+      { "rank": 5, "content": "Non-compliance of an AI system with any requirements or obligations under this Regulation, other than those laid down in Article 5, shall be subject to administrative fines of up to 15 000 000 EUR or, if the offender is an undertaking, up to 3% of its total worldwide annual turnover." }
+    ]
+  },
+  {
+    "q_id": "Q2",
+    "response": "The European Parliament adopted the Artificial Intelligence Act at first reading on 13 March 2024.",
+    "retrieved_chunks": [
+      { "rank": 1, "content": "European Parliament legislative resolution of 13 March 2024 on the proposal for a regulation of the European Parliament and of the Council on laying down harmonised rules on Artificial Intelligence (Artificial Intelligence Act) and amending certain Union Legislative Acts." },
+      { "rank": 2, "content": "Position of the European Parliament adopted at first reading on 13 March 2024 with a view to the adoption of Regulation (EU) 2024/... of the European Parliament and of the Council laying down harmonised rules on artificial intelligence." },
+      { "rank": 3, "content": "This position replaces the amendments adopted on 14 June 2023 (Texts adopted, P9_TA(2023)0236)." },
+      { "rank": 4, "content": "The European Parliament, having regard to the Commission proposal to Parliament and the Council (COM(2021)0206), adopts its position at first reading hereinafter set out." },
+      { "rank": 5, "content": "Having regard to the provisional agreement approved by the committees responsible under Rule 74(4) of its Rules of Procedure and the undertaking given by the Council representative by letter of 2 February 2024 to approve Parliament's position." }
+    ]
+  },
+  {
+    "q_id": "Q3",
+    "response": "A general-purpose AI model is presumed to have high-impact capabilities when the cumulative amount of computation used for its training, measured in FLOPs, is greater than 10^25.",
+    "retrieved_chunks": [
+      { "rank": 1, "content": "A general-purpose AI model shall be presumed to have high impact capabilities pursuant to paragraph 1, point (a), when the cumulative amount of computation used for its training measured in FLOPs is greater than 10^25." },
+      { "rank": 2, "content": "A general-purpose AI model shall be classified as a general-purpose AI model with systemic risk if it meets any of the following requirements: it has high impact capabilities evaluated on the basis of appropriate technical tools and methodologies, including indicators and benchmarks." },
+      { "rank": 3, "content": "The Commission shall adopt delegated acts in accordance with Article 97 to amend the thresholds listed in paragraphs 2 and 3 of this Article, as well as to supplement benchmarks and indicators in light of evolving technological developments, such as algorithmic improvements or increased hardware efficiency." },
+      { "rank": 4, "content": "'floating-point operation' or 'FLOP' means any mathematical operation or assignment involving floating-point numbers, which are a subset of the real numbers typically represented on computers by an integer of fixed precision scaled by an integer exponent of a fixed base." },
+      { "rank": 5, "content": "'high-impact capabilities' means capabilities that match or exceed the capabilities recorded in the most advanced general-purpose AI models." }
+    ]
+  },
+  {
+    "q_id": "Q4",
+    "response": "Where a general-purpose AI model meets the systemic risk threshold under Article 51(1)(a), the relevant provider must notify the Commission without delay and in any event within two weeks after that requirement is met or it becomes known that it will be met.",
+    "retrieved_chunks": [
+      { "rank": 1, "content": "Where a general-purpose AI model meets the requirement referred to in Article 51(1), point (a), the relevant provider shall notify the Commission without delay and in any event within two weeks after that requirement is met or it becomes known that it will be met." },
+      { "rank": 2, "content": "That notification shall include the information necessary to demonstrate that the relevant requirement has been met. If the Commission becomes aware of a general-purpose AI model presenting systemic risks of which it has not been notified, it may decide to designate it as a model with systemic risk." },
+      { "rank": 3, "content": "The provider of a general purpose AI model that meets the requirement referred to in Article 51(1), point (a), may present, with its notification, sufficiently substantiated arguments to demonstrate that, exceptionally, although it meets that requirement, the general purpose AI model does not present systemic risks." },
+      { "rank": 4, "content": "Upon a reasoned request of a provider whose model has been designated as a general-purpose AI model with systemic risk, the Commission shall take the request into account and may decide to reassess whether the general-purpose AI model can still be considered to present systemic risks." },
+      { "rank": 5, "content": "Providers may request reassessment at the earliest six months after the designation decision. Where the Commission, following its reassessment, decides to maintain the designation, providers may request reassessment at the earliest six months after that decision." }
+    ]
+  },
+  {
+    "q_id": "Q5",
+    "response": "FLOP stands for floating-point operation, which means any mathematical operation or assignment involving floating-point numbers. These are a subset of real numbers typically represented on computers by an integer of fixed precision scaled by an integer exponent of a fixed base.",
+    "retrieved_chunks": [
+      { "rank": 1, "content": "'floating-point operation' or 'FLOP' means any mathematical operation or assignment involving floating-point numbers, which are a subset of the real numbers typically represented on computers by an integer of fixed precision scaled by an integer exponent of a fixed base." },
+      { "rank": 2, "content": "A general-purpose AI model shall be presumed to have high impact capabilities pursuant to paragraph 1, point (a), when the cumulative amount of computation used for its training measured in FLOPs is greater than 10^25." },
+      { "rank": 3, "content": "'high-impact capabilities' means capabilities that match or exceed the capabilities recorded in the most advanced general-purpose AI models." },
+      { "rank": 4, "content": "The Commission shall adopt delegated acts to amend the thresholds and to supplement benchmarks and indicators in light of evolving technological developments, such as algorithmic improvements or increased hardware efficiency." },
+      { "rank": 5, "content": "'general-purpose AI model' means an AI model, including where such an AI model is trained with a large amount of data using self-supervision at scale, that displays significant generality and is capable of competently performing a wide range of distinct tasks." }
+    ]
+  },
+  {
+    "q_id": "Q6",
+    "response": "For Union institutions, bodies, offices or agencies, non-compliance with the prohibition of AI practices referred to in Article 5 is subject to administrative fines of up to €1,500,000.",
+    "retrieved_chunks": [
+      { "rank": 1, "content": "Non-compliance with the prohibition of the AI practices referred to in Article 5 shall be subject to administrative fines of up to EUR 1 500 000." },
+      { "rank": 2, "content": "The European Data Protection Supervisor may impose administrative fines on Union institutions, bodies, offices and agencies falling within the scope of this Regulation." },
+      { "rank": 3, "content": "The non-compliance of the AI system with any requirements or obligations under this Regulation, other than those laid down in Articles 5, shall be subject to administrative fines of up to EUR 750 000." },
+      { "rank": 4, "content": "Before taking decisions pursuant to this Article, the European Data Protection Supervisor shall give the Union institution, body, office or agency which is the subject of the proceedings the opportunity of being heard on the matter regarding the possible infringement." },
+      { "rank": 5, "content": "Funds collected by imposition of fines in this Article shall contribute to the general budget of the Union. The fines shall not affect the effective operation of the Union institution, body, office or agency fined." }
+    ]
+  },
+  {
+    "q_id": "Q7",
+    "response": "Under Article 99(5), supplying incorrect, incomplete or misleading information to notified bodies or national competent authorities is subject to administrative fines of up to €7,500,000 or, if the offender is an undertaking, up to 1% of its total worldwide annual turnover for the preceding financial year, whichever is higher.",
+    "retrieved_chunks": [
+      { "rank": 1, "content": "The supply of incorrect, incomplete or misleading information to notified bodies or national competent authorities in reply to a request shall be subject to administrative fines of up to 7 500 000 EUR or, if the offender is an undertaking, up to 1 % of its total worldwide annual turnover for the preceding financial year, whichever is higher." },
+      { "rank": 2, "content": "Non-compliance of an AI system with any of the following provisions related to operators or notified bodies, other than those laid down in Articles 5, shall be subject to administrative fines of up to 15 000 000 EUR or, if the offender is an undertaking, up to 3% of its total worldwide annual turnover." },
+      { "rank": 3, "content": "The penalties provided for shall be effective, proportionate and dissuasive. They shall take into account the interests of SMEs, including start-ups, and their economic viability." },
+      { "rank": 4, "content": "In the case of SMEs, including start-ups, each fine referred to in this Article shall be up to the percentages or amount referred to paragraphs 3, 4 and 5, whichever thereof is lower." },
+      { "rank": 5, "content": "When deciding whether to impose an administrative fine and when deciding on the amount of the administrative fine in each individual case, all relevant circumstances of the specific situation shall be taken into account." }
+    ]
+  },
+  {
+    "q_id": "Q8",
+    "response": "The term 'AI Office' refers to the Commission's function of contributing to the implementation, monitoring and supervision of AI systems and AI governance, carried out by the European Artificial Intelligence Office established by Commission Decision of 24 January 2024. References in the Regulation to the AI Office shall be construed as references to the Commission.",
+    "retrieved_chunks": [
+      { "rank": 1, "content": "'AI Office' means the Commission's function of contributing to the implementation, monitoring and supervision of AI systems and AI governance carried out by the European Artificial Intelligence Office established by Commission Decision of 24.1.2024; references in this Regulation to the AI Office shall be construed as references to the Commission." },
+      { "rank": 2, "content": "The Commission shall have exclusive powers to supervise and enforce Chapter V, taking into account the procedural guarantees under Article 94. The Commission shall entrust the implementation of these tasks to the AI Office." },
+      { "rank": 3, "content": "The AI Office shall encourage and facilitate the drawing up of codes of practice at Union level in order to contribute to the proper application of this Regulation, taking into account international approaches." },
+      { "rank": 4, "content": "'national competent authority' means a notifying authority or a market surveillance authority." },
+      { "rank": 5, "content": "For the purpose of carrying out the tasks assigned to it under this Section, the AI Office may take the necessary actions to monitor the effective implementation and compliance with this Regulation by providers of general-purpose AI models." }
+    ]
+  },
+  {
+    "q_id": "Q9",
+    "response": "The authorised representative of a general-purpose AI model provider must keep a copy of the technical documentation specified in Annex XI at the disposal of the AI Office and national competent authorities for a period of 10 years after the general-purpose AI model has been placed on the market.",
+    "retrieved_chunks": [
+      { "rank": 1, "content": "keep a copy of the technical documentation specified in Annex XI at the disposal of the AI Office and national competent authorities, for a period of 10 years after the general-purpose AI model has been placed on the market, and keep current the contact details of the provider that appointed the authorised representative." },
+      { "rank": 2, "content": "Prior to placing a general-purpose AI model on the Union market, providers established in third countries shall, by written mandate, appoint an authorised representative which is established in the Union." },
+      { "rank": 3, "content": "The authorised representative shall perform the tasks specified in the mandate received from the provider. It shall provide a copy of the mandate to the AI Office upon request, in one of the official languages of the institutions of the Union." },
+      { "rank": 4, "content": "The authorised representative shall terminate the mandate if it considers or has reason to consider the provider to be acting contrary to its obligations pursuant to this Regulation." },
+      { "rank": 5, "content": "verify that the technical documentation specified in Annex XI has been drawn up and all obligations referred to in Articles 53 and, where applicable, Article 55 have been fulfilled by the provider." }
+    ]
+  },
+  {
+    "q_id": "Q10",
+    "response": "AI literacy obligations are established under Article 4 of the EU AI Act.",
+    "retrieved_chunks": [
+      { "rank": 1, "content": "Article 4 — AI literacy: Providers and deployers of AI systems shall take measures to ensure, to their best extent, a sufficient level of AI literacy of their staff and other persons dealing with the operation and use of AI systems on their behalf." },
+      { "rank": 2, "content": "taking into account their technical knowledge, experience, education and training and the context the AI systems are to be used in, and considering the persons or groups of persons on whom the AI systems are to be used." },
+      { "rank": 3, "content": "'AI literacy' means skills, knowledge and understanding that allows providers, deployers and affected persons, taking into account their respective rights and obligations in the context of this Regulation, to make an informed deployment of AI systems, as well as to gain awareness about the opportunities and risks of AI and possible harm it can cause." },
+      { "rank": 4, "content": "The AI Office and the Member States shall facilitate the drawing up of codes of conduct concerning the voluntary application, including by deployers, of specific requirements to all AI systems, including promoting AI literacy, in particular that of persons dealing with the development, operation and use of AI." },
+      { "rank": 5, "content": "Providers of general-purpose AI models shall cooperate as necessary with the Commission and the national competent authorities in the exercise of their competences and powers pursuant to this Regulation." }
+    ]
+  },
+  {
+    "q_id": "Q11",
+    "response": "The maximum administrative fine for non-compliance with requirements related to operators or notified bodies, other than violations of Article 5, is up to €15,000,000 or, if the offender is an undertaking, up to 3% of its total worldwide annual turnover for the preceding financial year, whichever is higher.",
+    "retrieved_chunks": [
+      { "rank": 1, "content": "Non-compliance of an AI system with any of the following provisions related to operators or notified bodies, other than those laid down in Articles 5, shall be subject to administrative fines of up to 15 000 000 EUR or, if the offender is an undertaking, up to 3 % of its total worldwide annual turnover for the preceding financial year, whichever is higher." },
+      { "rank": 2, "content": "obligations of providers pursuant to Article 16; obligations of authorised representatives pursuant to Article 22; obligations of importers pursuant to Article 23; obligations of distributors pursuant to Article 24; obligations of deployers pursuant to Article 26." },
+      { "rank": 3, "content": "requirements and obligations of notified bodies pursuant to Articles 31, 33(1), 33(3), 33(4) or 34; transparency obligations for providers and users pursuant to Article 50." },
+      { "rank": 4, "content": "Non-compliance with the prohibition of the AI practices referred to in Article 5 shall be subject to administrative fines of up to 35 000 000 EUR or, if the offender is an undertaking, up to 7 % of its total worldwide annual turnover." },
+      { "rank": 5, "content": "The supply of incorrect, incomplete or misleading information to notified bodies or national competent authorities in reply to a request shall be subject to administrative fines of up to 7 500 000 EUR or up to 1% of total worldwide annual turnover." }
+    ]
+  },
+  {
+    "q_id": "Q12",
+    "response": "Under Article 99(6), for SMEs including start-ups, each fine shall be up to the percentages or amounts referred to in paragraphs 3, 4 and 5, whichever thereof is lower. This ensures the lower of the fixed amount or the turnover-based percentage applies to SMEs.",
+    "retrieved_chunks": [
+      { "rank": 1, "content": "In the case of SMEs, including start-ups, each fine referred to in this Article shall be up to the percentages or amount referred to paragraphs 3, 4 and 5, whichever thereof is lower." },
+      { "rank": 2, "content": "The penalties provided for shall be effective, proportionate and dissuasive. They shall take into account the interests of SMEs, including start-ups, and their economic viability." },
+      { "rank": 3, "content": "Non-compliance with the prohibition of the AI practices referred to in Article 5 shall be subject to administrative fines of up to 35 000 000 EUR or, if the offender is an undertaking, up to 7 % of its total worldwide annual turnover for the preceding financial year, whichever is higher." },
+      { "rank": 4, "content": "By laying down those rules as well as measures in support of innovation with a particular focus on small and medium enterprises (SMEs), including startups, this Regulation supports the objective of promoting the European human-centric approach to AI." },
+      { "rank": 5, "content": "The AI Office and the Member States shall take into account the specific interests and needs of SMEs, including start-ups, when encouraging and facilitating the drawing up of codes of conduct." }
+    ]
+  },
+  {
+    "q_id": "Q13",
+    "response": "Under Article 101, the Commission may impose fines on providers of general-purpose AI models not exceeding 3% of their total worldwide turnover in the preceding financial year or €15,000,000, whichever is higher, when the Commission finds the provider intentionally or negligently infringed the relevant provisions.",
+    "retrieved_chunks": [
+      { "rank": 1, "content": "The Commission may impose on providers of general purpose AI models fines not exceeding 3 % of their total worldwide turnover in the preceding financial year or 15 million EUR, whichever is higher, when the Commission finds that the provider intentionally or negligently: infringed the relevant provisions of this Regulation." },
+      { "rank": 2, "content": "failed to comply with a request for a document or for information pursuant to Article 91, or supplied incorrect, incomplete or misleading information; failed to comply with a measure requested under Article 93; failed to make available to the Commission access to the general-purpose AI model." },
+      { "rank": 3, "content": "In fixing the amount of the fine or periodic penalty payment, regard shall be had to the nature, gravity and duration of the infringement, taking due account of the principles of proportionality and appropriateness." },
+      { "rank": 4, "content": "Before adopting the decision pursuant to paragraph 1, the Commission shall communicate its preliminary findings to the provider of the general-purpose AI model and give it an opportunity to be heard." },
+      { "rank": 5, "content": "The Court of Justice of the European Union shall have unlimited jurisdiction to review decisions of the Commission fixing a fine under this Article. It may cancel, reduce or increase the fine imposed." }
+    ]
+  },
+  {
+    "q_id": "Q14",
+    "response": "The Commission has exclusive powers to supervise and enforce Chapter V obligations relating to general-purpose AI models. The Commission entrusts the implementation of these tasks to the AI Office.",
+    "retrieved_chunks": [
+      { "rank": 1, "content": "The Commission shall have exclusive powers to supervise and enforce Chapter V, taking into account the procedural guarantees under Article 94. The Commission shall entrust the implementation of these tasks to the AI Office, without prejudice to the powers of organisation of the Commission and the division of competences between Member States and the Union based on the Treaties." },
+      { "rank": 2, "content": "Without prejudice to Article 75(3), market surveillance authorities may request the Commission to exercise the powers laid down in this Section, where that is necessary and proportionate to assist with the fulfilment of their tasks under this Regulation." },
+      { "rank": 3, "content": "For the purpose of carrying out the tasks assigned to it under this Section, the AI Office may take the necessary actions to monitor the effective implementation and compliance with this Regulation by providers of general-purpose AI models." },
+      { "rank": 4, "content": "'AI Office' means the Commission's function of contributing to the implementation, monitoring and supervision of AI systems and AI governance carried out by the European Artificial Intelligence Office established by Commission Decision of 24.1.2024." },
+      { "rank": 5, "content": "The AI Office shall encourage and facilitate the drawing up of codes of practice at Union level in order to contribute to the proper application of this Regulation, taking into account international approaches." }
+    ]
+  },
+  {
+    "q_id": "Q15",
+    "response": "No. The EU AI Act does not apply to AI systems where and in so far as they are placed on the market, put into service, or used exclusively for military, defence or national security purposes, regardless of the type of entity carrying out those activities.",
+    "retrieved_chunks": [
+      { "rank": 1, "content": "This Regulation does not apply to AI systems where and in so far they are placed on the market, put into service, or used with or without modification exclusively for military, defence or national security purposes, regardless of the type of entity carrying out those activities." },
+      { "rank": 2, "content": "This Regulation does not apply to AI systems which are not placed on the market or put into service in the Union, where the output is used in the Union exclusively for military, defence or national security purposes, regardless of the type of entity carrying out those activities." },
+      { "rank": 3, "content": "This Regulation does not apply to areas outside the scope of Union law, and shall not, in any event, affect the competences of the Member States concerning national security, regardless of the type of entity entrusted by the Member States with carrying out tasks in relation to those competences." },
+      { "rank": 4, "content": "This Regulation applies neither to public authorities in a third country nor to international organisations falling within the scope of this Regulation pursuant to paragraph 1, where those authorities or organisations use AI systems in the framework of international cooperation or agreements for law enforcement and judicial cooperation." },
+      { "rank": 5, "content": "This Regulation does not apply to any research, testing or development activity regarding AI systems or models prior to their being placed on the market or put into service. Such activities shall be conducted in accordance with applicable Union law." }
+    ]
+  },
+  {
+    "q_id": "Q16",
+    "response": "Under Article 3(1), an AI system means a machine-based system designed to operate with varying levels of autonomy, that may exhibit adaptiveness after deployment and that, for explicit or implicit objectives, infers from the input it receives how to generate outputs such as predictions, content, recommendations, or decisions that can influence physical or virtual environments.",
+    "retrieved_chunks": [
+      { "rank": 1, "content": "'AI system' means a machine-based system designed to operate with varying levels of autonomy, that may exhibit adaptiveness after deployment and that, for explicit or implicit objectives, infers, from the input it receives, how to generate outputs such as predictions, content, recommendations, or decisions that can influence physical or virtual environments." },
+      { "rank": 2, "content": "A key characteristic of AI systems is their capability to infer. This capability to infer refers to the process of obtaining the outputs, such as predictions, content, recommendations, or decisions, which can influence physical and virtual environments." },
+      { "rank": 3, "content": "The notion of 'AI system' in this Regulation should be closely aligned with the work of international organisations working on AI to ensure legal certainty, facilitate international convergence and wide acceptance, while providing the flexibility to accommodate the rapid technological developments in this field." },
+      { "rank": 4, "content": "The term 'machine-based' refers to the fact that AI systems run on machines. AI systems are designed to operate with varying levels of autonomy, meaning that they have some degree of independence of actions from human involvement." },
+      { "rank": 5, "content": "AI systems can be used on a stand-alone basis or as a component of a product, irrespective of whether the system is physically integrated into the product (embedded) or serve the functionality of the product without being integrated therein (non-embedded)." }
+    ]
+  },
+  {
+    "q_id": "Q17",
+    "response": "Under Article 3(60), a deep fake means AI-generated or manipulated image, audio or video content that resembles existing persons, objects, places or other entities or events and would falsely appear to a person to be authentic or truthful.",
+    "retrieved_chunks": [
+      { "rank": 1, "content": "'deep fake' means AI-generated or manipulated image, audio or video content that resembles existing persons, objects, places or other entities or events and would falsely appear to a person to be authentic or truthful." },
+      { "rank": 2, "content": "Deployers of an AI system that generates or manipulates image, audio or video content constituting a deep fake, shall disclose that the content has been artificially generated or manipulated." },
+      { "rank": 3, "content": "Where the content forms part of an evidently artistic, creative, satirical, fictional analogous work or programme, the transparency obligations set out in this paragraph are limited to disclosure of the existence of such generated or manipulated content in an appropriate manner that does not hamper the display or enjoyment of the work." },
+      { "rank": 4, "content": "Providers of AI systems, including general-purpose AI systems, generating synthetic audio, image, video or text content, shall ensure that the outputs of the AI system are marked in a machine-readable format and detectable as artificially generated or manipulated." },
+      { "rank": 5, "content": "This obligation shall not apply where the use is authorised by law to detect, prevent, investigate or prosecute criminal offence." }
+    ]
+  },
+  {
+    "q_id": "Q18",
+    "response": "Under Article 3(49), a serious incident means an incident or malfunctioning of an AI system that directly or indirectly leads to: (a) the death of a person, or serious harm to a person's health; (b) a serious and irreversible disruption of the management or operation of critical infrastructure; (c) the infringement of obligations under Union law intended to protect fundamental rights; or (d) serious harm to property or the environment.",
+    "retrieved_chunks": [
+      { "rank": 1, "content": "'serious incident' means an incident or malfunctioning of an AI system that directly or indirectly leads to any of the following: the death of a person, or serious harm to a person's health; a serious and irreversible disruption of the management or operation of critical infrastructure; the infringement of obligations under Union law intended to protect fundamental rights; serious harm to property or the environment." },
+      { "rank": 2, "content": "Providers of general-purpose AI models with systemic risk shall keep track of, document and report without undue delay to the AI Office and, as appropriate, to national competent authorities, relevant information about serious incidents and possible corrective measures to address them." },
+      { "rank": 3, "content": "'critical infrastructure' means critical infrastructure as defined in Article 2, point (4), of Directive (EU) 2022/2557." },
+      { "rank": 4, "content": "Providers and deployers of high-risk AI systems shall report any serious incident to the market surveillance authorities of the Member States where that incident occurred." },
+      { "rank": 5, "content": "The report shall be made immediately after the provider or deployer has established a causal link between the AI system and the serious incident or the reasonable likelihood of such a link, and, in any event, not later than 15 days after the providers or deployers becomes aware of the serious incident." }
+    ]
+  },
+  {
+    "q_id": "Q19",
+    "response": "Under Article 3(4), a deployer means a natural or legal person, public authority, agency or other body using an AI system under its authority, except where the AI system is used in the course of a personal non-professional activity.",
+    "retrieved_chunks": [
+      { "rank": 1, "content": "'deployer' means a natural or legal person, public authority, agency or other body using an AI system under its authority except where the AI system is used in the course of a personal non-professional activity." },
+      { "rank": 2, "content": "The notion of 'deployer' referred to in this Regulation should be interpreted as any natural or legal person, including a public authority, agency or other body, using an AI system under its authority, except where the AI system is used in the course of a personal non-professional activity." },
+      { "rank": 3, "content": "This Regulation does not apply to obligations of deployers who are natural persons using AI systems in the course of a purely personal non-professional activity." },
+      { "rank": 4, "content": "Depending on the type of AI system, the use of the system may affect persons other than the deployer." },
+      { "rank": 5, "content": "'operator' means a provider, product manufacturer, deployer, authorised representative, importer or distributor." }
+    ]
+  },
+  {
+    "q_id": "Q20",
+    "response": "Under Article 3(63), a general-purpose AI model means an AI model, including where trained with a large amount of data using self-supervision at scale, that displays significant generality and is capable of competently performing a wide range of distinct tasks regardless of the way the model is placed on the market, and that can be integrated into a variety of downstream systems or applications. It excludes AI models used for research, development or prototyping activities before they are released on the market.",
+    "retrieved_chunks": [
+      { "rank": 1, "content": "'general-purpose AI model' means an AI model, including where such an AI model is trained with a large amount of data using self-supervision at scale, that displays significant generality and is capable of competently performing a wide range of distinct tasks regardless of the way the model is placed on the market and that can be integrated into a variety of downstream systems or applications, except AI models that are used for research, development or prototyping activities before they are released on the market." },
+      { "rank": 2, "content": "'general-purpose AI system' means an AI system which is based on a general-purpose AI model, that has the capability to serve a variety of purposes, both for direct use as well as for integration in other AI systems." },
+      { "rank": 3, "content": "The notion of general-purpose AI models should be clearly defined and set apart from the notion of AI systems to reflect the fact that AI models are general-purpose components of AI systems." },
+      { "rank": 4, "content": "'downstream provider' means a provider of an AI system, including a general-purpose AI system, which integrates an AI model, regardless of whether the model is provided by themselves and vertically integrated or provided by another entity based on contractual relations." },
+      { "rank": 5, "content": "A general-purpose AI model shall be classified as a general-purpose AI model with systemic risk if it has high impact capabilities evaluated on the basis of appropriate technical tools and methodologies, including indicators and benchmarks." }
+    ]
+  }
+]
